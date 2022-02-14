@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^0.25.0",
+    "discord.js": "^11.6.4",
+    "discord.js-self": "^12.0.4",
+    "discord.js-v12": "^2.5.0",
+    "discord.js-v12-fix-ratelimit": "^12.5.31",
+    "request": "^2.88.2"
+  }
+}
